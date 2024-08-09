@@ -3,6 +3,9 @@
   "resourceVersion": "1.6",
   "name": "GitHub Teste",
   "resources": [
+    {"id":{"name":"obj_menu","path":"objects/obj_menu/obj_menu.yy",},"order":0,},
+    {"id":{"name":"fnt_menu","path":"fonts/fnt_menu/fnt_menu.yy",},"order":0,},
+    {"id":{"name":"scr_funcoes","path":"scripts/scr_funcoes/scr_funcoes.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
