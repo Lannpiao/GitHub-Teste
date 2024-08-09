@@ -179,7 +179,7 @@ criar_menu		= function(_menu)
 
 iniciar_jogo			= function() // função que inicia o jogo
 {
-	show_message("jogos")
+	room_goto(rm_jogos)// aqui vamos para a tela onde tera todos os jogos craidos pelos devs, estou terminando o menu de jogos la vai ter uma lista onde vc vai por o nome do seu jogo e o nome da room que dele
 }
 
 fechar_jogo			= function()

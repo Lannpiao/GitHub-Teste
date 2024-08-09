@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_menu",
+  "name": "obj_jogo_lista",
   "spriteId": null,
   "solid": false,
   "visible": true,

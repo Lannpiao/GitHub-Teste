@@ -1,0 +1,1 @@
+draw_games_active();
