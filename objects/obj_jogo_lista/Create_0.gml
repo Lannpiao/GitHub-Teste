@@ -1,4 +1,4 @@
-list_games			= ["Duel Grid", "bumba"];
+list_games			= ["Duel Grid"];
 rm_this_game		= [rm_menu_dg]
 _array_leng			= array_length(list_games);
 
